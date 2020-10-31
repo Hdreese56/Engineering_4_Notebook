@@ -2,12 +2,17 @@
 # Written by [Harry]
 
 from random import randint
+#imports random nuumbers, which will be 1-6 for the 6 faces on a die.
 print("dice roller")
 roll1 = True
+# sets booleen
 while roll1:
+#starts loop
 	roller=str(input("Roll again?, enter for yes, x for no"))
+	#prompts user for imput to contiue or stops
 	if roller == "":
 		print("You rolled",randint(1,6))
 	elif roller == "x":
 		roll1= False
+		#ends code
 		print("thanks, come back soon!")		
