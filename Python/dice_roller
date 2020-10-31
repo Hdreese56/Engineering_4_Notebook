@@ -1,0 +1,13 @@
+# Automatic Dice Roller
+# Written by [Harry]
+
+from random import randint
+print("dice roller")
+roll1 = True
+while roll1:
+	roller=str(input("Roll again?, enter for yes, x for no"))
+	if roller == "":
+		print("You rolled",randint(1,6))
+	elif roller == "x":
+		roll1= False
+		print("thanks, come back soon!")		
