@@ -19,3 +19,8 @@ This assignment wasn't too hard. Mainly cause I kinda got the hang of functions 
 The main goal of this assignment was to create a program that splits up a sentence letter by letter and prints each on a different line, it also uses dashes to show the spaces. 
 ### Reflection
 This assignment allowed me to use my new found function skills and really put them too the test. By doing this I use a single function the Split up the Words first using a split() and then use another split() to split up the words. I also use 2 for loops insinde the function that allowed the function to keep looping. To replace the spaces I drew inspiration from Graham Lenert and used a replace(), this allows you to input the thing you want to replace and the item your replacing it with, like this, b=b.replace("a", "x"), This would replace all A's for x's inside the B. I once again used Jdoodle to write my code then transfered it too beagle term. I would recommend using a separate IDE for these assignment, I just streamlines the process a bit.
+## MSP
+### Description
+Essentially make a hangman program using the various skills we have learned so far.
+### Reflection
+The main idea of the assignment wasn't very hard and was a great exersize to incorperate our skills we have learned so far. The main trouble I ran into was the printing of the actual hangman. This could have been done alot easier ways than I did it, probably with an array or array list. But I just hard coded it. Definitely wasn't the moves but thats OK. This assignment was also great to use replit on and allowed me to collaborate in real time with classmates. 
