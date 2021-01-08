@@ -24,3 +24,7 @@ This assignment allowed me to use my new found function skills and really put th
 Essentially make a hangman program using the various skills we have learned so far.
 ### Reflection
 The main idea of the assignment wasn't very hard and was a great exersize to incorperate our skills we have learned so far. The main trouble I ran into was the printing of the actual hangman. This could have been done alot easier ways than I did it, probably with an array or array list. But I just hard coded it. Definitely wasn't the moves but thats OK. This assignment was also great to use replit on and allowed me to collaborate in real time with classmates. 
+## SSH
+### Description
+The purpose of this assignment was to set up SSH and get a feel for it. The goal was to wire up an LED and make it blink using the program.
+### Reflection
