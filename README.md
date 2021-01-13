@@ -37,3 +37,4 @@ Make 2 LEDs blink using your raspberry pi.
 ### Reflection
 This assignmetn was a breeze because all I had to do waas wire up another LED and it took me like 10 Seconds. You can use the exact same code from SSH assignment.
 ### Video if it will work
+![GitHub intro](IMG_4048.mov)
