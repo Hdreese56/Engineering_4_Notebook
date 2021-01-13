@@ -35,6 +35,6 @@ Setting up SSH was a pain. I took a while to figure out why my IP was wrong and 
 ### Description
 Make 2 LEDs blink using your raspberry pi.
 ### Reflection
-This assignmetn was a breeze because all I had to do waas wire up another LED and it took me like 10 Seconds. You can use the exact same code from SSH assignment.
+This assignment was a breeze because all I had to do was wire up another LED and it took me like 10 Seconds. You can use the exact same code from SSH assignment.
 ### Video if it will work
 ![GitHub intro](IMG_4048.mov)
