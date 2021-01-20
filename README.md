@@ -38,3 +38,9 @@ Make 2 LEDs blink using your raspberry pi.
 This assignment was a breeze because all I had to do was wire up another LED and it took me like 10 Seconds. You can use the exact same code from SSH assignment.
 ### Video if it will work
 ![GitHub intro](IMG_4048.mov)
+## Bash
+### Description
+This assignment served as intro to bash. WE were to blink to LEDs ten times using bash.
+### Reflection
+This was a refreshing assignment as we use something new, BASH. USing bash was kinda wierd at first but one of my fellow classmates Graham lenert has two links in his repo that help to guide you through the process. Running the code was easy. This assignment didn't take long because it used the same wiring for the last two assignments. I'm not a big fan of the gpio pins, I think they are overly complicated.
+
