@@ -24,3 +24,17 @@ This assignment allowed me to use my new found function skills and really put th
 Essentially make a hangman program using the various skills we have learned so far.
 ### Reflection
 The main idea of the assignment wasn't very hard and was a great exersize to incorperate our skills we have learned so far. The main trouble I ran into was the printing of the actual hangman. This could have been done alot easier ways than I did it, probably with an array or array list. But I just hard coded it. Definitely wasn't the moves but thats OK. This assignment was also great to use replit on and allowed me to collaborate in real time with classmates. 
+## SSH
+### Description
+The purpose of this assignment was to set up SSH and get a feel for it. The goal was to wire up an LED and make it blink using the program.
+### Reflection
+Setting up SSH was a pain. I took a while to figure out why my IP was wrong and it was because I typed in hostname -i instead of hostname -I. So that took me the longest time to figure out. Then once I finally tried to connect to SSH I found out that my pi was offline and I couldn't connect to the internet because my wpa supplicant file was broken so I had to delete some file the reboot my pi. Finally I was onto the coding and wiring part. This was fairly simple but I didn't know how to use the battery so I ended up just connecting my pi with the other provided cable. I figured out the gpio pins by just googling guide and the images were very helpful. In all honesty this assignment took me alot longer than it should have.
+### Video if it will work
+![GitHub intro](IMG_4019.mov)
+## GPIO PINS - Python
+### Description
+Make 2 LEDs blink using your raspberry pi.
+### Reflection
+This assignment was a breeze because all I had to do was wire up another LED and it took me like 10 Seconds. You can use the exact same code from SSH assignment.
+### Video if it will work
+![GitHub intro](IMG_4048.mov)
