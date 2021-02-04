@@ -45,6 +45,12 @@ This assignment served as intro to bash. WE were to blink to LEDs ten times usin
 This was a refreshing assignment as we use something new, BASH. USing bash was kinda wierd at first but one of my fellow classmates Graham lenert has two links in his repo that help to guide you through the process. Running the code was easy. This assignment didn't take long because it used the same wiring for the last two assignments. I'm not a big fan of the gpio pins, I think they are overly complicated.
 ## Hello Flask
 ### Description
-This assignment setup IC2.
+This assignment setup Flask.
 ### Reflection
 I took a break from I2C to do this. This assignment was a breeze and added a sick feature to my arsenal. I wonder what the other applications of this could be. This assignment also featured the best directions thus far. Thx Dr. Shields. 
+
+## Gpio pins Flask
+### Description
+This assignment had us turn an LED on and off wirelessly with a different computer.
+### Reflection
+I got stuck on I2C so I decided to satrt this assignment. It wasn't too hard, but it does introduce a very key component that will help with our project, the flask app. With this we will be able to do all sorts of fancy things with our pi. I also like the HTML part because HTML is a really cool language and this assignment helped be brush back up on it. The format of the buttons was a little tricky so I got some inspiration from my classmates. I did run into one issue, I kept trying to run the code with python3 instead of sudo python, very stupid mistake.
