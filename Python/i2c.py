@@ -6,7 +6,7 @@ from PIL import ImageDraw
 from PIL import ImageFont
 
 RST = 24
-accelerometer = Adafruit_LSM303.LSM303() 
+lsm303 = Adafruit_LSM303.LSM303() 
 disp = Adafruit_SSD1306.SSD1306_128_64(rst=RST, i2c_address=0x3d) 
 disp.begin()
 disp.clear()
@@ -17,19 +17,17 @@ height = disp.height
 image = Image.new('1', (width, height))
 draw = ImageDraw.Draw(image)
 draw.rectangle((0,0,width,height), outline=0, fill=0)
-
-pad = 2
+padding = 2
 shape_width = 20
-top = pad
-bottom = height - pad
-x = pad
+top = padding
+bottom = height - padding
+x = padding
 font = ImageFont.load_default()
 
 while True:
-	accel, mag = accelerometer.read() 
+	accel, mag = lsm303.read() 
 	accel_x, accel_y, accel_z = accel 
 	mag_x, mag_y, mag_z = mag 
-	
 	
 	draw.text((x, top), "Accelerometer Data:", font=font, fill=255) 
 	draw.text((x, top + 10), "Accel x ={0}".format(round(accel_x / 100, 3)), font=font, fill=255) 
