@@ -54,3 +54,9 @@ I took a break from I2C to do this. This assignment was a breeze and added a sic
 This assignment had us turn an LED on and off wirelessly with a different computer.
 ### Reflection
 I got stuck on I2C so I decided to satrt this assignment. It wasn't too hard, but it does introduce a very key component that will help with our project, the flask app. With this we will be able to do all sorts of fancy things with our pi. I also like the HTML part because HTML is a really cool language and this assignment helped be brush back up on it. The format of the buttons was a little tricky so I got some inspiration from my classmates. I did run into one issue, I kept trying to run the code with python3 instead of sudo python, very stupid mistake.
+
+## I2C
+### Description
+This assignment had us setup, use, and familiarize ourselves with the accelerometer. Also used a display.
+### Reflection
+This assignment was a long time coming. First I put this assignment off because it wouldn't allow me to turn on I2C. Then I had to get a new accerlerometer. The whole process was very buggy for me. I liked how this assignment utilized the wiring/hardware side that the rest of these assginments didn't really use to the fullest. Since this assignment was pretty old I was able to use the knowlegde my peers passed do to me to the fullest. The main problem I ran into was formatting. And  a very helpful take away from this assignment was formatting ;). As well as how to use and accelerometer which will be helpful because me plan on using one for our project.
