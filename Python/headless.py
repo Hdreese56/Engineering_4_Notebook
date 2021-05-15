@@ -38,6 +38,7 @@ while True:
 	dataValue = abs(accel_x/10)
 	if dataValue <= 3:
 		dataValue = 3
+		
 	print(dataValue)
 
 	draw.text((x, top), "Accelerometer Data:", font=font, fill=255) 
