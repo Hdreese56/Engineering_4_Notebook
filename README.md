@@ -67,3 +67,4 @@ For this assingment I was tasked with running basically the previous assignment 
 ### Reflection
 It has been a real pain to do these assignment while working on my project but I guess thats what I get for procrastinating this. I choose to go the ssh way cause for some reason I just like the ssh interface and whatnot. But all in all I did use a couple new things: I Made a scatterplot appear visual (The poin of the assignment), Use it to display one of 3 vairables. I really dont know what else to put as this is a pretty old assignment and my classmates wiki's solved most of the minor issues I ran into. 
 ### Fritzing
+I Will add fritzing when I get to school.
