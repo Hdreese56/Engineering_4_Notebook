@@ -60,3 +60,10 @@ I got stuck on I2C so I decided to satrt this assignment. It wasn't too hard, bu
 This assignment had us setup, use, and familiarize ourselves with the accelerometer. Also used a display.
 ### Reflection
 This assignment was a long time coming. First I put this assignment off because it wouldn't allow me to turn on I2C. Then I had to get a new accelerometer. The whole process was very buggy for me. I liked how this assignment utilized the wiring/hardware side that the rest of these assginments didn't really use to the fullest. Since this assignment was pretty old I was able to use the knowlegde my peers passed do to me to the fullest. The main problem I ran into was formatting. And a very helpful take away from this assignment was formatting ;). As well as how to use and accelerometer which will be helpful because me plan on using one for our project.
+
+## Headless
+### Description 
+For this assingment I was tasked with running basically the previous assignment and graphing that visually. Then we were tasked with either having it automatically running on startup or using ssh to run the program. All in all you had a bit of freedom with this assignment.
+### Reflection
+It has been a real pain to do these assignment while working on my project but I guess thats what I get for procrastinating this. I choose to go the ssh way cause for some reason I just like the ssh interface and whatnot. But all in all I did use a couple new things: I Made a scatterplot appear visual (The poin of the assignment), Use it to display one of 3 vairables. I really dont know what else to put as this is a pretty old assignment and my classmates wiki's solved most of the minor issues I ran into. 
+### Fritzing
