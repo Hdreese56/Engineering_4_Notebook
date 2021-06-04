@@ -68,3 +68,9 @@ For this assingment I was tasked with running basically the previous assignment 
 It has been a real pain to do these assignment while working on my project but I guess thats what I get for procrastinating this. I choose to go the ssh way cause for some reason I just like the ssh interface and whatnot. But all in all I did use a couple new things: I Made a scatterplot appear visual (The poin of the assignment), Use it to display one of 3 vairables. I really dont know what else to put as this is a pretty old assignment and my classmates wiki's solved most of the minor issues I ran into. 
 ### Fritzing
 I Will add fritzing when I get to school.
+
+## Pi Camera
+### Description
+For this assignment we hooked up a camera, wired it, and used it to take pictures using our raspberry pi.
+### Reflection
+I had a lot of fun with this assignment. I really like feature and hope to use it next year in my capstones project. This assignment wasa sort of straight forward and allowed me to kinda do my own thing. Luckliy I had my peers to help me with the code so I was really just struggling on the set up. I ran into a few problems with my pi not reading my camera so I had to borrow a friends camera. I decided to use the resolution 1024,768. 
