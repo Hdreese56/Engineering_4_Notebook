@@ -76,3 +76,4 @@ For this assignment we hooked up a camera, wired it, and used it to take picture
 I had a lot of fun with this assignment. I really like feature and hope to use it next year in my capstones project. This assignment wasa sort of straight forward and allowed me to kinda do my own thing. Luckliy I had my peers to help me with the code so I was really just struggling on the set up. I ran into a few problems with my pi not reading my camera so I had to borrow a friends camera. I decided to use the resolution 1024,768. For the second part we had to add filters to our pictures. This process was mapped out by my peers so it was a pretty simple task.
 ### Pictures
 ![GitHub intro](IMG_4217.jpg)
+Might have gotten cropped a little bit.
