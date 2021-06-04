@@ -8,3 +8,5 @@ with picamera.PiCamera() as camera:
 	time.sleep(2)
 	camera.capture('camera_test.jpg')
 	print("done")
+	
+	
