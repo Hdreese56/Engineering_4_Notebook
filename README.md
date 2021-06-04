@@ -77,3 +77,8 @@ I had a lot of fun with this assignment. I really like feature and hope to use i
 ### Pictures
 ![GitHub intro](IMG_4217.jpg)
 Might have gotten cropped a little bit.
+![GitHub intro](IMG_4218.jpg)
+![GitHub intro](IMG_4219.jpg)
+![GitHub intro](IMG_4220.jpg)
+![GitHub intro](IMG_4221.jpg)
+![GitHub intro](IMG_4222.jpg)
