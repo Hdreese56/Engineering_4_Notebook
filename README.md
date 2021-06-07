@@ -90,5 +90,5 @@ The none filter
 ![GitHub intro](camera_test_colorswap.jpg)
 The colors filter
 
-![GitHub intro](camera_test_cartoons.jpg)
+![GitHub intro](camera_test_cartoon.jpg)
 The cartoons filter
