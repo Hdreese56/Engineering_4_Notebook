@@ -78,13 +78,17 @@ I had a lot of fun with this assignment. I really like feature and hope to use i
 ![GitHub intro](camera_test.jpg)
 Might have gotten cropped a little bit.
 
-![GitHub intro](IMG_4218.jpg)
+![GitHub intro](camera_test_washed.jpg)
+This is the washed filter
 
-![GitHub intro](IMG_4219.jpg)
+![GitHub intro](camera_test_sketch.jpg)
+This is the sketch filter
 
-![GitHub intro](IMG_4220.jpg)
+![GitHub intro](camera_test_none.jpg)
+The none filter
 
-![GitHub intro](IMG_4221.jpg)
+![GitHub intro](camera_test_colors.jpg)
+The colors filter
 
-![GitHub intro](IMG_4222.jpg)
-
+![GitHub intro](camera_test_cartoons.jpg)
+The cartoons filter
