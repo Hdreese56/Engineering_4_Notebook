@@ -108,5 +108,4 @@ Me and friends completed this assignment together and nico took the pictures. Th
 For this assignment we were sasted with creating and compiling photos inot a stop motion video.
 ### Reflection
 
-
 ### Pics
