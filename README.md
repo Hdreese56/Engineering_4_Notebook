@@ -99,6 +99,14 @@ The cartoons filter
 ### Description
 For this assignment we used a sensor to decect motion and then snap a pic.
 ### Reflection
-Me and nico completed this assignment together and he took the pictures. This was one of the more straight forward assignments with the main kinks being solved and laid out on the website and classmates wiki's. One issue we ran inot was not having enough female wires which required us a swift drop off. Other wise it was pretty straight forward. 
+Me and friends completed this assignment together and nico took the pictures. This was one of the more straight forward assignments with the main kinks being solved and laid out on the website and classmates wiki's. One issue we ran inot was not having enough female wires which required us a swift drop off. Other wise it was pretty straight forward. 
 ### Pics
 ![GitHub intro](camera_nico.jpg)
+
+### Part 2
+### Description
+For this assignment we were sasted with creating and compiling photos inot a stop motion video.
+### Reflection
+
+
+### Pics
