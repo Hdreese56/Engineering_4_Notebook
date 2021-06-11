@@ -109,6 +109,6 @@ For this assignment we were equipped with the task of creating and compiling pho
 Once more me nico and jude worked on this assignment. We ran into some issues compiling the actual video but were successful in taking the individual pictures. This was a pretty rushed assignment due to it being the end of the year and class wrapping up. THX DR SHIELDS for everything you've done this year.
 
 ### Pics
-![GitHub intro](frame 1.jpg)
-![GitHub intro](frame 2.jpg)
-![GitHub intro](frame 3.jpg)
+![GitHub intro](frame1.jpg)
+![GitHub intro](frame2.jpg)
+![GitHub intro](frame3.jpg)
