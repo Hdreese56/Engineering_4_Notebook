@@ -104,7 +104,8 @@ Me and friends completed this assignment together and nico took the pictures/vid
 https://github.com/Hdreese56/Engineering_4_Notebook/blob/main/pics_my_movie.mp4
 ### Part 2
 ### Description
-For this assignment we were sasted with creating and compiling photos inot a stop motion video.
+For this assignment we were equipped with the task of creating and compiling photos in to a stop motion video.
 ### Reflection
+Once more me nico and jude worked on this assignment. We ran into some issues compiling the actual video but were successful in taking the individual pictures. This was a pretty rushed assignment due to it being the end of the year and class wrapping up. THX DR SHIELDS for everything you've done this year.
 
 ### Pics
